@@ -1,5 +1,5 @@
 # Flying Bird
-My 2nd Game Project
+My 2nd Game Project (Acadamic Project)
 <br/>
 Developed with Unity and Firebase
 <br/>
