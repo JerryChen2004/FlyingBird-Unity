@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "773532535965",
+    "firebase_url": "https://flying-bird-bf31c-default-rtdb.firebaseio.com",
+    "project_id": "flying-bird-bf31c",
+    "storage_bucket": "flying-bird-bf31c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773532535965:android:2a3c0c5bf6b94a601a5874",
+        "android_client_info": {
+          "package_name": "com.FlyingBird.FlyingBird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaE8v6EmX9DDe1SlhM2utpNLmoju-QZFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
