@@ -7,3 +7,4 @@ An online casual side-scrolling mobile game (ONLY ON ANDROID)
 <hr/>
 <br/>
 The game has 3 levels with its design and leaderboard.
+Each level has its difficulty and game mechanics.
