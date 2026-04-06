@@ -7,4 +7,7 @@ An online casual side-scrolling mobile game (ONLY ON ANDROID)
 <hr/>
 <br/>
 The game has 3 levels with its design and leaderboard.
+<br/>
 Each level has its difficulty and game mechanics.
+<br/>
+Player data saved on local and cloud in Firebase.
