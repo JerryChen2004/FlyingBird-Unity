@@ -1,2 +1,6 @@
 # Flying Bird
-My 2nd Game Project, also the 1st online mobile game.
+My 2nd Game Project
+<br/>
+Developed with Unity and Firebase
+<hr/>
+
